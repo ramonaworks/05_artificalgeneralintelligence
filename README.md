@@ -1,2 +1,2 @@
-# 05_artificalgeneralintelligence
+# Ramona's Adventures in AI
 AI Adventures
